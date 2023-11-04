@@ -113,7 +113,7 @@ body {
 }
 
 .checked {
-  color: #999 !important;
+  color: #999;
   text-decoration: line-through;
 }
 
